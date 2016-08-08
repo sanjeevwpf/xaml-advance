@@ -1,0 +1,2 @@
+C:\Users\CSARANJ\Documents\Tutorials\XAML_ADVANCE\hw_module_0\hwstart\RestaurantManager.Models\RestaurantManager.Models.csproj;neutral
+C:\Users\CSARANJ\Documents\Tutorials\XAML_ADVANCE\hw_module_0\hwstart\RestaurantManager.UniversalWindows\RestaurantManager.UniversalWindows.csproj;x86
